@@ -39,8 +39,9 @@ The data includes:
 ## **Usage**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/Diversity-Inclusion-PowerBI-Analysis.git
+   git clone [https://github.com/YourUsername/Diversity-Inclusion-PowerBI-Analysis.git](https://github.com/adititrivedi01/Diversity-Inclusion-PowerBI-Analysis)
 
 ## **Dashboard Image**
 <a href ="https://github.com/adititrivedi01/Diversity-Inclusion-PowerBI-Analysis/blob/main/Dashboard%201.png"
+
 <a href ="https://github.com/adititrivedi01/Diversity-Inclusion-PowerBI-Analysis/blob/main/Dashboard%202.png" 
